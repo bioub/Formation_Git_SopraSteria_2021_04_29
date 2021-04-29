@@ -1,6 +1,6 @@
 # Formation Git
 
-Formation Git pour Sopra Steria du 29/04/2021
+Formation Git pour Sopra Steria du 29 au 30/04/2021
 
 ## Commande de bases
 
