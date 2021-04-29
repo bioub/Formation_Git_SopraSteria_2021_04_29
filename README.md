@@ -2,3 +2,10 @@
 
 Formation Git pour Sopra Steria du 29/04/2021
 
+## Commande de bases
+
+* git config
+* git init
+* git add
+* git commit
+* git status
