@@ -18,3 +18,9 @@ Formation Git pour Sopra Steria du 29 au 30/04/2021
 * git switch
 * git merge
 * git rebase
+
+## Workflows
+
+* Basic workflow
+* Git flow
+* Github flow
