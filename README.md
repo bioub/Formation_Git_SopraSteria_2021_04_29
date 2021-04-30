@@ -24,3 +24,4 @@ Formation Git pour Sopra Steria du 29 au 30/04/2021
 * Basic workflow
 * Git flow
 * Github flow
+* Gitlab flow
